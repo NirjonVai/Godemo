@@ -58,7 +58,7 @@
 
 #noted-notice p {
     margin-top: 5px; /* Space between the heading and the message */
-    font-size: 11px; /* Standard font size for the message */
+    font-size: 12px; /* Standard font size for the message */
     color: #555; /* Slightly lighter gray text color */
     font-weight: bold;
 }
